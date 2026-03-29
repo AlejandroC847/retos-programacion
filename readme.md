@@ -23,7 +23,7 @@ Cada reto contiene:
 ### 101 Ejercicios
 
 - [x] Ejercicio 1 - FizzBuzz
-- [x] Ejercicio 2 - Es un anagrama?
+- [x] Ejercicio 2 - Es un anagrama? 
 - [ ] Ejercicio 3 - La sucesión de Fibonacci
 - [ ] Ejercicio 4 - ???
 - [ ] Ejercicio 5 - ???

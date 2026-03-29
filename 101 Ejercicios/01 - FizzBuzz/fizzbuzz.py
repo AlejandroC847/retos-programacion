@@ -1,3 +1,13 @@
+"""
+Módulo para la resolución del problema lógico FizzBuzz.
+
+Proporciona funciones para evaluar la divisibilidad de números por 3 y 5,
+siguiendo las reglas clásicas del juego para generar cadenas de texto o 
+secuencias numéricas.
+"""
+__author__ = "Alejandro Cortés"
+__date__ = "2026/03/23"
+
 def fizzbuzz(n: int) -> str:
     """
     Devuelve la representación de un número según las reglas de FizzBuzz.
@@ -36,6 +46,9 @@ def ejecutar_fizzbuzz(inicio: int = 1, fin: int = 100) -> None:
         inicio (int): Inicio del rango
         fin (int): Fin del rango
     """
+
+    print("Fizzbuzz:\n")
+
     for i in range(inicio, fin + 1):
         print(fizzbuzz(i))
 

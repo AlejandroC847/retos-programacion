@@ -1,0 +1,43 @@
+# Changelog
+
+## [v0.2.0] - 2026-03-29
+
+### Added
+
+- Ejercicio 02: Es un Anagrama?
+- Tests básicos del módulo
+- Documentación del ejercicio
+- Implementación de CHANGELOG
+
+### Changed
+
+- Mejora en estructura de documentación de FizzBuzz
+- Ajuste de organización del código
+
+---
+
+## [v0.1.0] - 2026-03-23
+
+### Added
+
+- Ejercicio 01: FizzBuzz
+- Tests básicos del módulo
+- Documentación del ejercicio
+
+---
+
+## [v0.0.1] - 2026-03-23
+
+### Added
+
+- README principal
+- Conexión con GitHub
+
+---
+
+## [v0.0.0] - 2026-03-23
+
+### Added
+
+- Inicialización del repositorio
+- Estructura base del proyecto

@@ -11,7 +11,7 @@ aplicando reglas de reorganización:
     diferentes posiciones a menos que los espacios se encuentren a los extremos o haya espacios
     multiples entre palabras; sin embargo, al evaluar ambas cadenas normalizadas, los espacios
     se ignorarán.
-    6. Puntuación: Por fines practicos y no necesariamente semánticos, tambien se cuentan
+    7. Puntuación: Por fines practicos y no necesariamente semánticos, tambien se cuentan
     los signos de puntuación para un anagrama.
 """
 __author__ = "Alejandro Cortés"

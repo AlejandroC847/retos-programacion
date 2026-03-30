@@ -1,10 +1,20 @@
 # Changelog
 
+## [v0.3.0] - 2026-03-29
+
+### Added
+
+- **Ejercicio 03 - La Sucesión de Fibonacci**
+- Tests básicos del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.2.0] - 2026-03-29
 
 ### Added
 
-- Ejercicio 02: Es un Anagrama?
+- **Ejercicio 02: Es un Anagrama?**
 - Tests básicos del módulo
 - Documentación del ejercicio
 - Implementación de CHANGELOG
@@ -20,7 +30,7 @@
 
 ### Added
 
-- Ejercicio 01: FizzBuzz
+- **Ejercicio 01: FizzBuzz**
 - Tests básicos del módulo
 - Documentación del ejercicio
 
@@ -30,8 +40,8 @@
 
 ### Added
 
+- **Conexión con GitHub**
 - README principal
-- Conexión con GitHub
 
 ---
 
@@ -39,5 +49,5 @@
 
 ### Added
 
-- Inicialización del repositorio
+- **Inicialización del repositorio**
 - Estructura base del proyecto

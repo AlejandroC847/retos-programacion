@@ -16,7 +16,7 @@ Cada reto contiene:
 
 ## Tecnologías
 
-- Python 3
+- Python 3.12
 
 ## Progreso
 
@@ -25,8 +25,8 @@ Cada reto contiene:
 - [x] Ejercicio 1 - FizzBuzz
 - [x] Ejercicio 2 - Es un anagrama?
 - [x] Ejercicio 3 - La sucesión de Fibonacci
-- [ ] Ejercicio 4 - ¿Es un número primo?
-- [ ] Ejercicio 5 - ???
+- [x] Ejercicio 4 - ¿Es un número primo?
+- [ ] Ejercicio 5 - Área de un polígono
 - [ ] Ejercicio 6 - ???
 - [ ] Ejercicio 7 - ???
 - [ ] Ejercicio 8 - ???

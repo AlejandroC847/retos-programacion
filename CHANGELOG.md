@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.4.0] - 2026-04-10
+
+### Added
+
+- **Ejercicio 04 - Es un Número Primo?**
+- Tests básicos del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.3.0] - 2026-03-29
 
 ### Added

@@ -26,8 +26,8 @@ Cada reto contiene:
 - [x] Ejercicio 2 - Es un anagrama?
 - [x] Ejercicio 3 - La sucesión de Fibonacci
 - [x] Ejercicio 4 - ¿Es un número primo?
-- [ ] Ejercicio 5 - Área de un polígono
-- [ ] Ejercicio 6 - ???
+- [x] Ejercicio 5 - Área de un polígono
+- [ ] Ejercicio 6 - Aspect Ratio de una Imagen
 - [ ] Ejercicio 7 - ???
 - [ ] Ejercicio 8 - ???
 - [ ] Ejercicio 9 - ???

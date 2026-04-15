@@ -1,6 +1,16 @@
 # Changelog
 
+## [v0.5.0] - 2026-04-14
+
+### Added
+
+- **Ejercicio 05 - Área de un polígono**
+- Tests del módulo
+- Documentación del ejercicio
+
 ## [v0.4.0] - 2026-04-10
+
+---
 
 ### Added
 

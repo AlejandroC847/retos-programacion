@@ -27,8 +27,8 @@ Cada reto contiene:
 - [x] Ejercicio 3 - La sucesión de Fibonacci
 - [x] Ejercicio 4 - ¿Es un número primo?
 - [x] Ejercicio 5 - Área de un polígono
-- [ ] Ejercicio 6 - Aspect Ratio de una Imagen
-- [ ] Ejercicio 7 - ???
+- [x] Ejercicio 6 - Aspect Ratio de una Imagen
+- [ ] Ejercicio 7 - Invirtiendo cadenas
 - [ ] Ejercicio 8 - ???
 - [ ] Ejercicio 9 - ???
 - [ ] Ejercicio 10 - ???

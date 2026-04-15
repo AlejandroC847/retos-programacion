@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.6.0] - 2026-04-15
+
+### Added
+
+- **Ejercicio 06 - Aspect Ratio de una Imagen**
+- Tests del módulo}
+- Documentación del ejercicio
+
+---
+
 ## [v0.5.0] - 2026-04-14
 
 ### Added
@@ -8,9 +18,9 @@
 - Tests del módulo
 - Documentación del ejercicio
 
-## [v0.4.0] - 2026-04-10
-
 ---
+
+## [v0.4.0] - 2026-04-10
 
 ### Added
 

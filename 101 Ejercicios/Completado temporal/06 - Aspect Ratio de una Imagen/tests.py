@@ -15,7 +15,7 @@ init(autoreset=True)
 
 def test_ratio():
     """
-    Ejecuta las pruebas esperadas por posibles casos aplicados a la funció procesar_imagen()
+    Ejecuta las pruebas esperadas por posibles casos aplicados a la función procesar_imagen()
     """
 
     # Crear imagen ficticia en memoria

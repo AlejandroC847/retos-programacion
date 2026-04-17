@@ -23,13 +23,13 @@ Cada reto contiene:
 ### 101 Ejercicios
 
 - [x] Ejercicio 1 - FizzBuzz
-- [x] Ejercicio 2 - Es un anagrama?
-- [x] Ejercicio 3 - La sucesión de Fibonacci
-- [x] Ejercicio 4 - ¿Es un número primo?
-- [x] Ejercicio 5 - Área de un polígono
+- [x] Ejercicio 2 - Es un Anagrama?
+- [x] Ejercicio 3 - La Sucesión de Fibonacci
+- [x] Ejercicio 4 - ¿Es un Número Primo?
+- [x] Ejercicio 5 - Área de un Polígono
 - [x] Ejercicio 6 - Aspect Ratio de una Imagen
-- [ ] Ejercicio 7 - Invirtiendo cadenas
-- [ ] Ejercicio 8 - ???
+- [x] Ejercicio 7 - Invirtiendo cadenas
+- [ ] Ejercicio 8 - Contando Palabras
 - [ ] Ejercicio 9 - ???
 - [ ] Ejercicio 10 - ???
 - [ ] Ejercicio 11 - ???

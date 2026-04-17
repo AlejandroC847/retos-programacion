@@ -1,11 +1,21 @@
 # Changelog
 
+## [v0.7.0] - 2026-04-16
+
+### Added
+
+- **Ejercicio 07 - Invirtiendo Cadenas**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.6.0] - 2026-04-15
 
 ### Added
 
 - **Ejercicio 06 - Aspect Ratio de una Imagen**
-- Tests del módulo}
+- Tests del módulo
 - Documentación del ejercicio
 
 ---
@@ -14,7 +24,7 @@
 
 ### Added
 
-- **Ejercicio 05 - Área de un polígono**
+- **Ejercicio 05 - Área de un Polígono**
 - Tests del módulo
 - Documentación del ejercicio
 

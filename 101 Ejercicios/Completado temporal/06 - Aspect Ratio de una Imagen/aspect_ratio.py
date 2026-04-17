@@ -121,7 +121,8 @@ def mostrar_imagen(imagen: Image.Image, w: int, h: int, ratio_w: int, ratio_h: i
 # Ejecución Principal
 # =========================
 if __name__ == "__main__":
-    DIRECCION = "https://i.pinimg.com/736x/22/21/12/222112c36704f8e08011c7c2da22c8f9.jpg"
+    #DIRECCION = "https://i.pinimg.com/736x/22/21/12/222112c36704f8e08011c7c2da22c8f9.jpg"
+    DIRECCION = "https://pbs.twimg.com/media/G9kP-ZgWMAAee9D?format=jpg&name=900x900"
 
     img, wi, hi, rw, rh = procesar_imagen(obtener_imagen(DIRECCION))
     mostrar_imagen(img, wi, hi, rw, rh)

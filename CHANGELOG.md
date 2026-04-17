@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.8.0] - 2026-04-17
+
+### Added
+
+- **Ejercicio 08 - Contando Palabras**
+- Tests del módulo
+- Dodumentación del ejercicio
+
+---
+
 ## [v0.7.0] - 2026-04-16
 
 ### Added

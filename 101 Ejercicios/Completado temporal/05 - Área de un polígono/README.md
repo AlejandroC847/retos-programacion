@@ -37,16 +37,18 @@ polígono, sus medidas y su área.
 
 ### Ejecutar Programa
 
-`bash
+```bash
 python area_poligono.py
-`
+```
 
 ### Ejecutar Tests
 
-`bash
+```bash
 python tests.py
-`
+```
+
 ó
-`bash
+
+```bash
 pytest tests.py -v
-`
+```

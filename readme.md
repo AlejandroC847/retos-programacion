@@ -29,8 +29,8 @@ Cada reto contiene:
 - [x] Ejercicio 5 - Área de un Polígono
 - [x] Ejercicio 6 - Aspect Ratio de una Imagen
 - [x] Ejercicio 7 - Invirtiendo cadenas
-- [ ] Ejercicio 8 - Contando Palabras
-- [ ] Ejercicio 9 - ???
+- [x] Ejercicio 8 - Contando Palabras
+- [ ] Ejercicio 9 - Decimal a Binario
 - [ ] Ejercicio 10 - ???
 - [ ] Ejercicio 11 - ???
 - [ ] Ejercicio 12 - ???

@@ -29,16 +29,18 @@ de tkinter donde presenta la imagen con sus datos debajo.
 
 ### Ejecutar Programa
 
-`bash
+```bash
 python aspect_ratio.py
-`
+```
 
 ### Ejecutar Tests
 
-`bash
+```bash
 python tests.py
-`
+```
+
 ó
-`bash
+
+```bash
 pytest tests.py
-`
+```

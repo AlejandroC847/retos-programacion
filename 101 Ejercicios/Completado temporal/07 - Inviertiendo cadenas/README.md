@@ -27,15 +27,18 @@ por defecto esta vacía.s
 
 ### Ejecutar Programa
 
-`bash
+```bash
 python invirtiendo_cadenas.py
-`
+```
 
 ### Ejecutar Tests
 
-`bash
+```bash
 python tests.py
-`
+```
+
 ó
-`bash
-pytest tests.py -v`
+
+```bash
+pytest tests.py -v
+```

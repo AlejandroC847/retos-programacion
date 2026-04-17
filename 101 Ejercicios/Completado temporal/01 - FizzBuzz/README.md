@@ -12,7 +12,8 @@ Escribe un programa que muestre por consola los números del 1 al 100, sustituye
 
 ## Enfoque
 
-Se implementa una función `fizzbuzz(n)` que evalúa un número y devuelve el resultado correspondiente como string.
+Se implementa una función `fizzbuzz(n)` que evalúa un número y devuelve el
+resultado correspondiente como string.
 
 Luego, se utiliza una función `ejecutar_fizzbuzz()` para imprimir la secuencia completa.
 

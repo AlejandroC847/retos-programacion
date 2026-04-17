@@ -1,5 +1,5 @@
 """
-Moódulo para realizar las pruebas del módulo invirtiendo cadenas.py.
+Moódulo para realizar las pruebas del módulo invirtiendo_cadenas.py.
 Se utiliza assert y pytest para verificar que se obtienen los resultados esperados.
 """
 __author__ = "Alejandro Cortés"
@@ -12,9 +12,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 def test_invertir_cadena():
-    """
-    Ejecuta las pruebas esperadas por posibles casos aplicados a la función invertir cadena()
-    """
+    """Ejecuta las pruebas esperadas por posibles casos aplicados a la función invertir_cadena()"""
 
     assert ic.invertir_cadena("") == ""
     assert ic.invertir_cadena("Hola mundo") == "odnum aloH"

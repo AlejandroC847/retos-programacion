@@ -30,8 +30,8 @@ Cada reto contiene:
 - [x] Ejercicio 6 - Aspect Ratio de una Imagen
 - [x] Ejercicio 7 - Invirtiendo cadenas
 - [x] Ejercicio 8 - Contando Palabras
-- [ ] Ejercicio 9 - Decimal a Binario
-- [ ] Ejercicio 10 - ???
+- [x] Ejercicio 9 - Decimal a Binario
+- [ ] Ejercicio 10 - Código Morse
 - [ ] Ejercicio 11 - ???
 - [ ] Ejercicio 12 - ???
 - [ ] Ejercicio 13 - ???

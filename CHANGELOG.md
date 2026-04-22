@@ -1,12 +1,22 @@
 # Changelog
 
+## [v0.9.0] - 2026-04-22
+
+### Added
+
+- **Ejercicio 09 - Decimal a Binario**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.8.0] - 2026-04-17
 
 ### Added
 
 - **Ejercicio 08 - Contando Palabras**
 - Tests del módulo
-- Dodumentación del ejercicio
+- Documentación del ejercicio
 
 ---
 

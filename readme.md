@@ -31,8 +31,8 @@ Cada reto contiene:
 - [x] Ejercicio 7 - Invirtiendo cadenas
 - [x] Ejercicio 8 - Contando Palabras
 - [x] Ejercicio 9 - Decimal a Binario
-- [ ] Ejercicio 10 - Código Morse
-- [ ] Ejercicio 11 - ???
+- [c] Ejercicio 10 - Código Morse
+- [ ] Ejercicio 11 - Expresiones Equilibradas
 - [ ] Ejercicio 12 - ???
 - [ ] Ejercicio 13 - ???
 - [ ] Ejercicio 14 - ???

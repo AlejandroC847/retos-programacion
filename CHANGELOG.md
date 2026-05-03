@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.10.0] - 2026-05-03
+
+### Added
+
+- **Ejercicio 10 - Código Morse**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.9.0] - 2026-04-22
 
 ### Added

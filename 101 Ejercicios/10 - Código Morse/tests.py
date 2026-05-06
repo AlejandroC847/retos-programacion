@@ -1,5 +1,5 @@
 """
-Moódulo para realizar las pruebas del módulo codigo_morse.py.
+Módulo para realizar las pruebas del módulo codigo_morse.py.
 Se utiliza assert y pytest para verificar que se obtienen los resultados esperados.
 """
 __author__ = "Alejandro Cortés"

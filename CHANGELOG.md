@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.11.0] - 2026-05-05
+
+### Added
+
+- **Ejercicio 11 - Expresiones Equilibradas**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.10.0] - 2026-05-03
 
 ### Added

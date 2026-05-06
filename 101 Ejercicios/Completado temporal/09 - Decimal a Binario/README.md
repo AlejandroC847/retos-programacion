@@ -18,8 +18,8 @@ elemento en cadenas de texto, las concatena y retorna el número binario de tipo
 
 ## Estructura
 
-aspect_ratio.py → lógica principal
-tests.py → pruebas básicas con assert y pytest
+- aspect_ratio.py → lógica principal
+- tests.py → pruebas básicas con assert y pytest
 
 ## Ejecución
 

@@ -73,8 +73,8 @@ Se utilizan las siguientes tablas de conversion entre caracteres:
 
 ## Estructura
 
-codigo_morse.py → lógica principal
-tests.py → pruebas básicas con assert y pytest
+- codigo_morse.py → lógica principal
+- tests.py → pruebas básicas con assert y pytest
 
 ## Ejecución
 

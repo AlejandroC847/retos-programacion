@@ -33,8 +33,8 @@ Cada reto contiene:
 - [x] Ejercicio 9 - Decimal a Binario
 - [x] Ejercicio 10 - Código Morse
 - [x] Ejercicio 11 - Expresiones Equilibradas
-- [ ] Ejercicio 12 - Eliminando Caracteres
-- [ ] Ejercicio 13 - ???
+- [x] Ejercicio 12 - Eliminando Caracteres
+- [ ] Ejercicio 13 - Es un Palindromo?
 - [ ] Ejercicio 14 - ???
 - [ ] Ejercicio 15 - ???
 - [ ] Ejercicio 16 - ???

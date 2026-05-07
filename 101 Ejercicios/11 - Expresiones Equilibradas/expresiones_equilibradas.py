@@ -49,7 +49,8 @@ def _main():
         entrada = "".join(sys.argv[1:])
         is_balanced(entrada)
     else:
-        print("No se pasaron argumentos") #? Ejecutar entrada del usuario
+        expression = input("Introduce la expresion: ")
+        is_balanced(expression)
 
 # =========================
 # Ejecución Principal

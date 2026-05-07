@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.12.0] - 2026-05-06
+
+### Added
+
+- **Ejercicio 12 - ¿Es un Palíndromo?**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.11.0] - 2026-05-05
 
 ### Added

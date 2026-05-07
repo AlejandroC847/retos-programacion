@@ -12,7 +12,7 @@ import os
 
 init(autoreset=True)
 
-def limpiar_pantalla():
+def _limpiar_pantalla():
     """Limpia la consola de comandos dependiendo del sistema operativo."""
     os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -57,7 +57,7 @@ def test_errores():
 # =========================
 if __name__ == "__main__":
     try:
-        limpiar_pantalla()
+        _limpiar_pantalla()
         print(f"{Fore.CYAN}{'='*40}")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}Ejecutando suite de pruebas...")
 

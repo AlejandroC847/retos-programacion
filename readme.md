@@ -25,7 +25,7 @@ Cada reto contiene:
 - [x] Ejercicio 1 - FizzBuzz
 - [x] Ejercicio 2 - Es un Anagrama?
 - [x] Ejercicio 3 - La Sucesión de Fibonacci
-- [x] Ejercicio 4 - ¿Es un Número Primo?
+- [x] Ejercicio 4 - Es un Número Primo?
 - [x] Ejercicio 5 - Área de un Polígono
 - [x] Ejercicio 6 - Aspect Ratio de una Imagen
 - [x] Ejercicio 7 - Invirtiendo cadenas
@@ -35,8 +35,8 @@ Cada reto contiene:
 - [x] Ejercicio 11 - Expresiones Equilibradas
 - [x] Ejercicio 12 - Eliminando Caracteres
 - [x] Ejercicio 13 - Es un Palindromo?
-- [ ] Ejercicio 14 - Factorial Recursivo
-- [ ] Ejercicio 15 - ???
+- [x] Ejercicio 14 - Factorial Recursivo
+- [ ] Ejercicio 15 - Es un Número de Armstrong?
 - [ ] Ejercicio 16 - ???
 - [ ] Ejercicio 17 - ???
 - [ ] Ejercicio 18 - ???

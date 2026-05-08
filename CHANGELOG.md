@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.14.0] - 2026-05-08
+
+### Added
+
+- **Ejercicio 14 - Factorial Recursivo**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.13.0] - 2026-05-07
 
 ### Added

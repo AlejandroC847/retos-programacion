@@ -34,8 +34,8 @@ Cada reto contiene:
 - [x] Ejercicio 10 - Código Morse
 - [x] Ejercicio 11 - Expresiones Equilibradas
 - [x] Ejercicio 12 - Eliminando Caracteres
-- [ ] Ejercicio 13 - Es un Palindromo?
-- [ ] Ejercicio 14 - ???
+- [x] Ejercicio 13 - Es un Palindromo?
+- [ ] Ejercicio 14 - Factorial Recursivo
 - [ ] Ejercicio 15 - ???
 - [ ] Ejercicio 16 - ???
 - [ ] Ejercicio 17 - ???

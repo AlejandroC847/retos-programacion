@@ -36,8 +36,8 @@ Cada reto contiene:
 - [x] Ejercicio 12 - Eliminando Caracteres
 - [x] Ejercicio 13 - Es un Palindromo?
 - [x] Ejercicio 14 - Factorial Recursivo
-- [ ] Ejercicio 15 - Es un Número de Armstrong?
-- [ ] Ejercicio 16 - ???
+- [x] Ejercicio 15 - Es un Número de Armstrong?
+- [ ] Ejercicio 16 - Cuántos Días?
 - [ ] Ejercicio 17 - ???
 - [ ] Ejercicio 18 - ???
 - [ ] Ejercicio 19 - ???

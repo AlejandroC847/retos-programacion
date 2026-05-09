@@ -1,36 +1,45 @@
 """
-Módulo para realizar las pruebas del módulo es_un_palindromo.py.
+Módulo para realizar las pruebas del módulo es_un_numero_de_armstrong.py.
 Se utiliza assert y pytest para verificar que se obtienen los resultados esperados.
 """
 __author__ = "Alejandro Cortés"
-__date__ = "2026/05/08"
+__date__ = "2026/05/09"
 
-import factorial_recursivo as fr
+import es_un_numero_de_armstrong as arm
 from pytest import raises, fail
 from colorama import Fore, Style, init
 import os
 
 init(autoreset=True)
 
-def _limpiar_pantalla():
+def _clear_console():
     """Limpia la consola de comandos."""
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def test_factorial_recursivo():
+def test_is_armstrong():
     """
         Ejecuta las pruebas esperadas por posibles casos aplicados a
-        la función factorial_recursivo()
+        la función is_armstrong()
     """
 
-    print(f"{Fore.YELLOW}{Style.BRIGHT}Ejecutando pruebas de 'factorial_recursivo()'...")
+    print(f"{Fore.YELLOW}{Style.BRIGHT}Ejecutando pruebas de 'is_armstrong()'...")
 
-    assert fr.factorial_recursivo(0) == 1
-    assert fr.factorial_recursivo(1) == 1
-    assert fr.factorial_recursivo(5) == 120
-    assert fr.factorial_recursivo(10) == 3628800
+    for i in range(10): #Todos los numeros del 0 al 9 son narcisistas (de Armstrong)
+        assert arm.is_armstrong(i)
+
+    # Son números narcisistas
+    assert arm.is_armstrong(153)
+    assert arm.is_armstrong(1634)
+    assert arm.is_armstrong(92727)
+
+    # No son números narcisistas
+    assert not arm.is_armstrong(10)
+    assert not arm.is_armstrong(154)
+    assert not arm.is_armstrong(152)
+    assert not arm.is_armstrong(500)
 
     print(f"{Fore.GREEN}{Style.BRIGHT}\t"
-        "✅ Resultados de cálculo de factoriales esperados...")
+        "✅ Resultados de cálculo de números narcisistas esperados...")
 
 def test_errores():
     """
@@ -43,13 +52,10 @@ def test_errores():
     casos_invalidos_tipo = [9.81, "847", True, {"uno": 1}, [3, 4, 5], None]
     for caso in casos_invalidos_tipo:
         with raises(TypeError):
-            fr.factorial_recursivo(caso)
+            arm.is_armstrong(caso)
 
     with raises(ValueError):
-        fr.factorial_recursivo(-5)
-
-    with raises(RecursionError):
-        fr.factorial_recursivo(5000)
+        arm.is_armstrong(-5)
 
     print(f"{Fore.GREEN}{Style.BRIGHT}\t✅ Pruebas de errores completadas con éxito.")
 
@@ -58,11 +64,11 @@ def test_errores():
 # =========================
 if __name__ == "__main__":
     try:
-        _limpiar_pantalla()
+        _clear_console()
         print(f"{Fore.CYAN}{'='*40}")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}Ejecutando suite de pruebas...")
 
-        test_factorial_recursivo()
+        test_is_armstrong()
         test_errores()
 
         print(f"\n{Fore.GREEN}{Style.BRIGHT}✅ Todos los tests pasaron correctamente")

@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.15.0] - 2026-05-09
+
+### Added
+
+- **Ejercicio 15 - ¿Es un Número de Armstrong?**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.14.0] - 2026-05-08
 
 ### Added

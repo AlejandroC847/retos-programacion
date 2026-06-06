@@ -37,8 +37,8 @@ Cada reto contiene:
 - [x] Ejercicio 13 - Es un Palindromo?
 - [x] Ejercicio 14 - Factorial Recursivo
 - [x] Ejercicio 15 - Es un Número de Armstrong?
-- [ ] Ejercicio 16 - Cuántos Días?
-- [ ] Ejercicio 17 - ???
+- [x] Ejercicio 16 - Cuántos Días?
+- [ ] Ejercicio 17 - En Mayúscula
 - [ ] Ejercicio 18 - ???
 - [ ] Ejercicio 19 - ???
 - [ ] Ejercicio 20 - ???

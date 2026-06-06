@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.16.0] - 2026-06-06
+
+### Added
+
+- **Ejercicio 16 - Cuántos Días?**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.15.0] - 2026-05-09
 
 ### Added

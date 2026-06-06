@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.16.1] - 2026-06-06
+
+### Changed
+
+-**Ejercicio 16 - Cuántos Días?**: Se agregó la sección "Enfoque" al README del módulo.
+
+### Fixed
+
+- **Ejercicio 16 - Cuántos Días?**: Corrección de errores ortográficos en la documentación.
+
+---
+
 ## [v0.16.0] - 2026-06-06
 
 ### Added

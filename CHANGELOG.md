@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.17.0] - 2026-06-07
+
+### Added
+
+- **Ejercicio 17 - En Mayúscula**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.16.1] - 2026-06-06
 
 ### Changed

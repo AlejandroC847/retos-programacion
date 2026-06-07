@@ -38,8 +38,8 @@ Cada reto contiene:
 - [x] Ejercicio 14 - Factorial Recursivo
 - [x] Ejercicio 15 - Es un Número de Armstrong?
 - [x] Ejercicio 16 - Cuántos Días?
-- [ ] Ejercicio 17 - En Mayúscula
-- [ ] Ejercicio 18 - ???
+- [x] Ejercicio 17 - En Mayúscula
+- [ ] Ejercicio 18 - La carrera de obstáculos
 - [ ] Ejercicio 19 - ???
 - [ ] Ejercicio 20 - ???
 - [ ] Ejercicio 21 - ???

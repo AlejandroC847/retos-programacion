@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.18.0] - 2026-06-09
+
+### Added
+
+- **Ejercicio 18 - La Carrera de Obstáculos**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.17.0] - 2026-06-07
 
 ### Added

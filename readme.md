@@ -39,8 +39,8 @@ Cada reto contiene:
 - [x] Ejercicio 15 - Es un Número de Armstrong?
 - [x] Ejercicio 16 - Cuántos Días?
 - [x] Ejercicio 17 - En Mayúscula
-- [ ] Ejercicio 18 - La carrera de obstáculos
-- [ ] Ejercicio 19 - ???
+- [x] Ejercicio 18 - La Carrera de Obstáculos
+- [ ] Ejercicio 19 - Tres en Raya
 - [ ] Ejercicio 20 - ???
 - [ ] Ejercicio 21 - ???
 - [ ] Ejercicio 22 - ???

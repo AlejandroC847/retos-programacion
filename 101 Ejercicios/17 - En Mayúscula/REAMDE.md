@@ -29,7 +29,7 @@ python en_mayuscla.py
 ó
 
 ```bash
-python en_mayuscula.py
+python en_mayuscula.py "cadena de texto"
 ```
 
 ### Ejecutar Tests

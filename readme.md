@@ -40,8 +40,8 @@ Cada reto contiene:
 - [x] Ejercicio 16 - Cuántos Días?
 - [x] Ejercicio 17 - En Mayúscula
 - [x] Ejercicio 18 - La Carrera de Obstáculos
-- [ ] Ejercicio 19 - Tres en Raya
-- [ ] Ejercicio 20 - ???
+- [x] Ejercicio 19 - Tres en Raya
+- [ ] Ejercicio 20 - Conversor Tiempo
 - [ ] Ejercicio 21 - ???
 - [ ] Ejercicio 22 - ???
 - [ ] Ejercicio 23 - ???

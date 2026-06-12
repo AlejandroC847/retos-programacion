@@ -1,5 +1,23 @@
 # Changelog
 
+## [v0.19.1] - 2026-06-11
+
+### Fixed
+
+- Actualización en la documentacion principal acerca del ejercicio 19 "Tres En Raya"
+
+---
+
+## [v0.19.0] - 2026-06-11
+
+### Added
+
+- **Ejercicio 19 - Tres En Raya**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.18.0] - 2026-06-09
 
 ### Added

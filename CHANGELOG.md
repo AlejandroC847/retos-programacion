@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.20.0] - 2026-06-11
+
+### Added
+
+- **Ejercicio 20 - Conversor Tiempo**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.19.1] - 2026-06-11
 
 ### Fixed

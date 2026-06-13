@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.22.0] - 2026-06-13
+
+### Added
+
+- **Ejercicio 22 - Calculadora .TXT**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.21.0] - 2026-06-12
 
 ### Added

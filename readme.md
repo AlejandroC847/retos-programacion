@@ -43,8 +43,8 @@ Cada reto contiene:
 - [x] Ejercicio 19 - Tres en Raya
 - [x] Ejercicio 20 - Conversor Tiempo
 - [x] Ejercicio 21 - Parando El Tiempo
-- [ ] Ejercicio 22 - Calculadora .TXT
-- [ ] Ejercicio 23 - ???
+- [x] Ejercicio 22 - Calculadora .TXT
+- [ ] Ejercicio 23 - Conjuntos
 - [ ] Ejercicio 24 - ???
 - [ ] Ejercicio 25 - ???
 - [ ] Ejercicio 26 - ???

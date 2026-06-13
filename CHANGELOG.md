@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.21.0] - 2026-06-12
+
+### Added
+
+- **Ejercicio 21 - Parando El Tiempo**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.20.0] - 2026-06-11
 
 ### Added

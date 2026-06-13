@@ -42,8 +42,8 @@ Cada reto contiene:
 - [x] Ejercicio 18 - La Carrera de Obstáculos
 - [x] Ejercicio 19 - Tres en Raya
 - [x] Ejercicio 20 - Conversor Tiempo
-- [ ] Ejercicio 21 - Parando El Tiempo
-- [ ] Ejercicio 22 - ???
+- [x] Ejercicio 21 - Parando El Tiempo
+- [ ] Ejercicio 22 - Calculadora .TXT
 - [ ] Ejercicio 23 - ???
 - [ ] Ejercicio 24 - ???
 - [ ] Ejercicio 25 - ???

@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.23.0] - 2026-06-14
+
+### Added
+
+- **Ejercicio 23 - Conjuntos**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.22.0] - 2026-06-13
 
 ### Added

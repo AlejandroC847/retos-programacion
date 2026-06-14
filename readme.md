@@ -44,8 +44,8 @@ Cada reto contiene:
 - [x] Ejercicio 20 - Conversor Tiempo
 - [x] Ejercicio 21 - Parando El Tiempo
 - [x] Ejercicio 22 - Calculadora .TXT
-- [ ] Ejercicio 23 - Conjuntos
-- [ ] Ejercicio 24 - ???
+- [x] Ejercicio 23 - Conjuntos
+- [ ] Ejercicio 24 - Máximo Común Divisor y Mínimo Común Múltiplo
 - [ ] Ejercicio 25 - ???
 - [ ] Ejercicio 26 - ???
 - [ ] Ejercicio 27 - ???

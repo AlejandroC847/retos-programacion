@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.24.0] - 2026-06-14
+
+### Added
+
+- **Ejercicio 24 - Iteration Master**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.23.0] - 2026-06-14
 
 ### Added

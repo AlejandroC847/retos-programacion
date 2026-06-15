@@ -1,6 +1,20 @@
 # Changelog
 
-## [v0.25.0] - 2026-06-15
+## [roadmap-0.0.1] - 2026-06-15
+
+### Added
+
+- **Inicialización de la sección Roadmap**
+
+### Changed
+
+- **Infraestructura de versiones**: Se renombraron de forma masiva las etiquetas
+(tags) antiguas del repositorio (ej. de `0.20.0` a `ejercicios-0.20.0`) para dar
+soporte a la estructura de monorepositorio con múltiples secciones de práctica.
+
+---
+
+## [ejercicios-0.25.0] - 2026-06-15
 
 ### Added
 
@@ -10,7 +24,7 @@
 
 ---
 
-## [v0.24.0] - 2026-06-14
+## [ejercicios-0.24.0] - 2026-06-14
 
 ### Added
 
@@ -20,7 +34,7 @@
 
 ---
 
-## [v0.23.0] - 2026-06-14
+## [ejercicios-0.23.0] - 2026-06-14
 
 ### Added
 
@@ -30,7 +44,7 @@
 
 ---
 
-## [v0.22.0] - 2026-06-13
+## [ejercicios-0.22.0] - 2026-06-13
 
 ### Added
 
@@ -40,7 +54,7 @@
 
 ---
 
-## [v0.21.0] - 2026-06-12
+## [ejercicios-0.21.0] - 2026-06-12
 
 ### Added
 
@@ -50,7 +64,7 @@
 
 ---
 
-## [v0.20.0] - 2026-06-11
+## [ejercicios-0.20.0] - 2026-06-11
 
 ### Added
 
@@ -60,15 +74,15 @@
 
 ---
 
-## [v0.19.1] - 2026-06-11
+## [ejercicios-0.19.1] - 2026-06-11
 
 ### Fixed
 
-- Actualización en la documentacion principal acerca del ejercicio 19 "Tres En Raya"
+- Actualización en la documentacion principal del ejercicio 19: Tres En Raya
 
 ---
 
-## [v0.19.0] - 2026-06-11
+## [ejercicios-0.19.0] - 2026-06-11
 
 ### Added
 
@@ -78,7 +92,7 @@
 
 ---
 
-## [v0.18.0] - 2026-06-09
+## [ejercicios-0.18.0] - 2026-06-09
 
 ### Added
 
@@ -88,7 +102,7 @@
 
 ---
 
-## [v0.17.0] - 2026-06-07
+## [ejercicios-0.17.0] - 2026-06-07
 
 ### Added
 
@@ -98,11 +112,12 @@
 
 ---
 
-## [v0.16.1] - 2026-06-06
+## [ejercicios-0.16.1] - 2026-06-06
 
 ### Changed
 
--**Ejercicio 16 - Cuántos Días?**: Se agregó la sección "Enfoque" al README del módulo.
+- **Ejercicio 16 - Cuántos Días?**: Se agregó la sección "Enfoque" al
+README del módulo.
 
 ### Fixed
 
@@ -110,7 +125,7 @@
 
 ---
 
-## [v0.16.0] - 2026-06-06
+## [ejercicios-0.16.0] - 2026-06-06
 
 ### Added
 
@@ -120,7 +135,7 @@
 
 ---
 
-## [v0.15.0] - 2026-05-09
+## [ejercicios-0.15.0] - 2026-05-09
 
 ### Added
 
@@ -130,7 +145,7 @@
 
 ---
 
-## [v0.14.0] - 2026-05-08
+## [ejercicios-0.14.0] - 2026-05-08
 
 ### Added
 
@@ -140,7 +155,7 @@
 
 ---
 
-## [v0.13.0] - 2026-05-07
+## [ejercicios-0.13.0] - 2026-05-07
 
 ### Added
 
@@ -150,17 +165,17 @@
 
 ---
 
-## [v0.12.0] - 2026-05-06
+## [ejercicios-0.12.0] - 2026-05-06
 
 ### Added
 
-- **Ejercicio 12 - ¿Es un Palíndromo?**
+- **Ejercicio 12 - Eliminando Caracteres**
 - Tests del módulo
 - Documentación del ejercicio
 
 ---
 
-## [v0.11.0] - 2026-05-05
+## [ejercicios-0.11.0] - 2026-05-05
 
 ### Added
 
@@ -170,7 +185,7 @@
 
 ---
 
-## [v0.10.0] - 2026-05-03
+## [ejercicios-0.10.0] - 2026-05-03
 
 ### Added
 
@@ -180,7 +195,7 @@
 
 ---
 
-## [v0.9.0] - 2026-04-22
+## [ejercicios-0.9.0] - 2026-04-22
 
 ### Added
 
@@ -190,7 +205,7 @@
 
 ---
 
-## [v0.8.0] - 2026-04-17
+## [ejercicios-0.8.0] - 2026-04-17
 
 ### Added
 
@@ -200,7 +215,7 @@
 
 ---
 
-## [v0.7.0] - 2026-04-16
+## [ejercicios-0.7.0] - 2026-04-16
 
 ### Added
 
@@ -210,7 +225,7 @@
 
 ---
 
-## [v0.6.0] - 2026-04-15
+## [ejercicios-0.6.0] - 2026-04-15
 
 ### Added
 
@@ -220,7 +235,7 @@
 
 ---
 
-## [v0.5.0] - 2026-04-14
+## [ejercicios-0.5.0] - 2026-04-14
 
 ### Added
 
@@ -230,7 +245,7 @@
 
 ---
 
-## [v0.4.0] - 2026-04-10
+## [ejercicios-0.4.0] - 2026-04-10
 
 ### Added
 
@@ -240,7 +255,7 @@
 
 ---
 
-## [v0.3.0] - 2026-03-29
+## [ejercicios-0.3.0] - 2026-03-29
 
 ### Added
 
@@ -250,7 +265,7 @@
 
 ---
 
-## [v0.2.0] - 2026-03-29
+## [ejercicios-0.2.0] - 2026-03-29
 
 ### Added
 
@@ -261,12 +276,12 @@
 
 ### Changed
 
-- Mejora en estructura de documentación de FizzBuzz
+- Mejora en estructura de documentación del Ejercicio 01: FizzBuzz
 - Ajuste de organización del código
 
 ---
 
-## [v0.1.0] - 2026-03-23
+## [ejercicios-0.1.0] - 2026-03-23
 
 ### Added
 
@@ -276,16 +291,17 @@
 
 ---
 
-## [v0.0.1] - 2026-03-23
+## [ejercicios-0.0.1] - 2026-03-23
 
 ### Added
 
 - **Conexión con GitHub**
 - README principal
+- **Inicialización de sección "101 Ejercicios"**
 
 ---
 
-## [v0.0.0] - 2026-03-23
+## [0.0.0] - 2026-03-23
 
 ### Added
 

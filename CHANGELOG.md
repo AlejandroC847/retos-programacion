@@ -1,10 +1,20 @@
 # Changelog
 
+## [v0.25.0] - 2026-06-15
+
+### Added
+
+- **Ejercicio 25 - Iteration Master**
+- Tests del módulo
+- Documentación del ejercicio
+
+---
+
 ## [v0.24.0] - 2026-06-14
 
 ### Added
 
-- **Ejercicio 24 - Iteration Master**
+- **Ejercicio 24 - Máximo Común Divisor y Mínimo Común Múltiplo**
 - Tests del módulo
 - Documentación del ejercicio
 

@@ -46,8 +46,8 @@ Cada reto contiene:
 - [x] Ejercicio 22 - Calculadora .TXT
 - [x] Ejercicio 23 - Conjuntos
 - [x] Ejercicio 24 - Máximo Común Divisor y Mínimo Común Múltiplo
-- [ ] Ejercicio 25 - Iteration Master
-- [ ] Ejercicio 26 - ???
+- [x] Ejercicio 25 - Iteration Master
+- [ ] Ejercicio 26 - Piedra, Papel, Tijera
 - [ ] Ejercicio 27 - ???
 - [ ] Ejercicio 28 - ???
 - [ ] Ejercicio 29 - ???

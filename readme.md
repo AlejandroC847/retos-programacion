@@ -127,9 +127,9 @@ Cada reto contiene:
 ### Roadmap
 
 - [x] Ejercicio 1 - Sintaxis, Variables, Tipos de Datos y Hola Mundo
-- [ ] Ejercicio 2 - Operadores y Estructuras de Control
-- [ ] Ejercicio 3 - ???
-- [ ] Ejercicio 4 - ???
+- [x] Ejercicio 2 - Operadores y Estructuras de Control
+- [x] Ejercicio 3 - Funciones y Alcance
+- [ ] Ejercicio 4 - Estructuras de Datos
 - [ ] Ejercicio 5 - ???
 - [ ] Ejercicio 6 - ???
 - [ ] Ejercicio 7 - ???

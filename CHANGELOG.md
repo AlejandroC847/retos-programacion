@@ -1,5 +1,20 @@
 # Changelog
 
+## [roadmap-0.1.0] - 2026-06-16
+
+### Added
+
+- **Ejercicio 01 - Sintaxis, Variables, Tipos de Datos y Hola Mundo**
+- Documentación del ejercicio
+
+### Fixed
+
+- Corregidos errores tipográficos en los archivos de documentación:
+renombrado de REAMDE.md a README.md en los ejercicios de "101 Ejercicios"
+desde el ejercicio 16 hasta el ejercicio 25.
+
+---
+
 ## [roadmap-0.0.1] - 2026-06-15
 
 ### Added

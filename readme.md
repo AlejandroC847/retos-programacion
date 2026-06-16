@@ -16,7 +16,7 @@ Cada reto contiene:
 
 ## Tecnologías
 
-- Python 3.12
+- Python 3.13
 
 ## Progreso
 

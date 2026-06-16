@@ -1,5 +1,14 @@
 # Changelog
 
+## [roadmap-0.2.0] - 2026-06-16
+
+### Added
+
+- **Ejercicio 02 - Operadores y Estructuras de Control**
+- Documentación del ejercicio
+
+---
+
 ## [roadmap-0.1.0] - 2026-06-16
 
 ### Added

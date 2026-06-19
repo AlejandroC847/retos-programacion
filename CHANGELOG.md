@@ -1,11 +1,19 @@
 # Changelog
 
+## [roadmap-0.4.0] - 2026-06-18
+
+### Added
+
+- **Ejercicio 04 - Estructuras de Datos**
+- Doscumentación del ejercicio
+
+---
+
 ## [roadmap-0.3.0] - 2026-06-16
 
 ### Added
 
 - **Ejercicio 03 - Funciones y Alcance**
-- Tests del módulo
 - Documentación del ejercicio
 
 ---

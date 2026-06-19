@@ -129,8 +129,8 @@ Cada reto contiene:
 - [x] Ejercicio 1 - Sintaxis, Variables, Tipos de Datos y Hola Mundo
 - [x] Ejercicio 2 - Operadores y Estructuras de Control
 - [x] Ejercicio 3 - Funciones y Alcance
-- [ ] Ejercicio 4 - Estructuras de Datos
-- [ ] Ejercicio 5 - ???
+- [x] Ejercicio 4 - Estructuras de Datos
+- [ ] Ejercicio 5 - Cadenas de Caracteres
 - [ ] Ejercicio 6 - ???
 - [ ] Ejercicio 7 - ???
 - [ ] Ejercicio 8 - ???

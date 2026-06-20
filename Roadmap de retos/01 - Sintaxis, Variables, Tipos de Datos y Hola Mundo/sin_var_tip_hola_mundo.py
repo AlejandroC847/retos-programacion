@@ -40,6 +40,11 @@ def introduccion():
     entero = 1  # noqa: F841
         # Flotante
     flotante = 1.1  # noqa: F841
+        # Complejo
+    complejo = 3 + 5j #noqa: F841
+        # print(complejo.real)  # Salida: 3.0
+        # print(complejo.imag)  # Salida: 5.0
+
         # Booleano
     booleano = True # noqa: F841
         # String

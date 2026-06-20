@@ -1,5 +1,14 @@
 # Changelog
 
+## [roadmap-0.6.1] - 2026-06-20
+
+### Fixed
+
+- Se añadió el tipo de dato `complex` a la lista de tipos para completar el ejercicio
+"Ejercicio 01 - Sintaxis, Variables, Tipos de Datos y Hola Mundo"
+
+---
+
 ## [roadmap-0.6.0] - 2026-06-20
 
 ### Added

@@ -36,7 +36,7 @@ def is_palindrome(string: str) -> bool:
     string = string.translate(tabla)
 
     string = "".join(c for c in string if c.isalnum())
-    
+
     for c in string:
         if not c.isalnum():
             string = string.replace(c, "")

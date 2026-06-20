@@ -130,8 +130,8 @@ Cada reto contiene:
 - [x] Ejercicio 2 - Operadores y Estructuras de Control
 - [x] Ejercicio 3 - Funciones y Alcance
 - [x] Ejercicio 4 - Estructuras de Datos
-- [ ] Ejercicio 5 - Cadenas de Caracteres
-- [ ] Ejercicio 6 - ???
+- [x] Ejercicio 5 - Cadenas de Caracteres
+- [ ] Ejercicio 6 - Valor y Referencia
 - [ ] Ejercicio 7 - ???
 - [ ] Ejercicio 8 - ???
 - [ ] Ejercicio 9 - ???

@@ -1,11 +1,21 @@
 # Changelog
 
+## [roadmap-0.5.0] - 2026-06-19
+
+### Added
+
+- **Ejercicio 05 - Cadenas de Caracres**
+- Documentación del ejercicio
+- Tests del módulo
+
+---
+
 ## [roadmap-0.4.0] - 2026-06-18
 
 ### Added
 
 - **Ejercicio 04 - Estructuras de Datos**
-- Doscumentación del ejercicio
+- Documentación del ejercicio
 
 ---
 

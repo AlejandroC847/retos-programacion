@@ -1,5 +1,14 @@
 # Changelog
 
+## [roadmap-0.6.0] - 2026-06-20
+
+### Added
+
+- **Ejercicio 06 - Valor y Referencia**
+- Documentación del ejercicio
+
+---
+
 ## [roadmap-0.5.0] - 2026-06-19
 
 ### Added

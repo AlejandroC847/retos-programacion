@@ -131,8 +131,8 @@ Cada reto contiene:
 - [x] Ejercicio 3 - Funciones y Alcance
 - [x] Ejercicio 4 - Estructuras de Datos
 - [x] Ejercicio 5 - Cadenas de Caracteres
-- [ ] Ejercicio 6 - Valor y Referencia
-- [ ] Ejercicio 7 - ???
+- [x] Ejercicio 6 - Valor y Referencia
+- [ ] Ejercicio 7 - Recursividad
 - [ ] Ejercicio 8 - ???
 - [ ] Ejercicio 9 - ???
 - [ ] Ejercicio 10 - ???

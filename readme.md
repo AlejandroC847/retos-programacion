@@ -132,8 +132,8 @@ Cada reto contiene:
 - [x] Ejercicio 4 - Estructuras de Datos
 - [x] Ejercicio 5 - Cadenas de Caracteres
 - [x] Ejercicio 6 - Valor y Referencia
-- [ ] Ejercicio 7 - Recursividad
-- [ ] Ejercicio 8 - ???
+- [x] Ejercicio 7 - Recursividad
+- [ ] Ejercicio 8 - Pilas y Colas
 - [ ] Ejercicio 9 - ???
 - [ ] Ejercicio 10 - ???
 - [ ] Ejercicio 11 - ???

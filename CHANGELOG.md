@@ -1,5 +1,15 @@
 # Changelog
 
+## [roadmap-0.7.0] - 2026-06-20
+
+### Added
+
+- **Ejercicio 07 - Recursividad**
+- Documentación del ejercicio
+-Tests del módulo
+
+---
+
 ## [roadmap-0.6.1] - 2026-06-20
 
 ### Fixed

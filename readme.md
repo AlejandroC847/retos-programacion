@@ -133,8 +133,8 @@ Cada reto contiene:
 - [x] Ejercicio 5 - Cadenas de Caracteres
 - [x] Ejercicio 6 - Valor y Referencia
 - [x] Ejercicio 7 - Recursividad
-- [ ] Ejercicio 8 - Pilas y Colas
-- [ ] Ejercicio 9 - ???
+- [x] Ejercicio 8 - Pilas y Colas
+- [ ] Ejercicio 9 - Clases
 - [ ] Ejercicio 10 - ???
 - [ ] Ejercicio 11 - ???
 - [ ] Ejercicio 12 - ???

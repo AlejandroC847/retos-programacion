@@ -1,4 +1,7 @@
-"""Foo
+"""Módulo que muestra el funcionamiento de la recursividad en python (llamado de una función a si
+misma) imprimiendo los números de n a 0.
+Tambien se integran con fines didacticos una función para obtener el resultado de _n!_ y
+una función para obtener el elemento _n_ de la sucesión de Fibonacci
 """
 
 __author__ = "Alejandro Cortés"
@@ -107,7 +110,6 @@ def fibonacci(n: int = 1):
         return 1
 
     return fibonacci(n - 2) + fibonacci(n - 1)
-
 
 def _main():
     """Demo del programa. Ejecución principal"""

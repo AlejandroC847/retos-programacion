@@ -1,12 +1,22 @@
 # Changelog
 
+## [roadmap-0.8.0] - 2026-06-23
+
+### Added
+
+- **Ejercicio 08 - Pilas y Colas**
+- Documentación del ejercicio
+- Tests del módulo
+
+---
+
 ## [roadmap-0.7.0] - 2026-06-20
 
 ### Added
 
 - **Ejercicio 07 - Recursividad**
 - Documentación del ejercicio
--Tests del módulo
+- Tests del módulo
 
 ---
 

@@ -134,8 +134,8 @@ Cada reto contiene:
 - [x] Ejercicio 6 - Valor y Referencia
 - [x] Ejercicio 7 - Recursividad
 - [x] Ejercicio 8 - Pilas y Colas
-- [ ] Ejercicio 9 - Clases
-- [ ] Ejercicio 10 - ???
+- [x] Ejercicio 9 - Clases
+- [ ] Ejercicio 10 - Herencia y Polimorfismo
 - [ ] Ejercicio 11 - ???
 - [ ] Ejercicio 12 - ???
 - [ ] Ejercicio 13 - ???

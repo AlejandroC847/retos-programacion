@@ -32,7 +32,7 @@ def test_stack_operations():
 def test_queue_operations():
     """Verifica el funcionamiento adecuado de la Cola y el comportamiento FIFO"""
 
-    print(f"{Fore.YELLOW}{Style.BRIGHT}Ejecutando pruebas de cálculos para la Pila (Stack)...")
+    print(f"{Fore.YELLOW}{Style.BRIGHT}Ejecutando pruebas de cálculos para la Cola (Queue)...")
 
     queue = []
     pc.add_element_queue(queue, "1", "2", "3")

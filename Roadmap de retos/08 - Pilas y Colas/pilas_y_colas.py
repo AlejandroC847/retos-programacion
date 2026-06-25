@@ -82,6 +82,7 @@ def drain_stack(stack: list):
         extracted.append(stack.pop())
 
     return extracted
+
 #endregion
 
 #region COLA

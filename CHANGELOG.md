@@ -1,5 +1,15 @@
 # Changelog
 
+## [roadmap-0.9.0] - 2026-06-24
+
+### Added
+
+- **Ejercicio 09 - Clases**
+- Documentación del ejercicio
+- Tests del módulo
+
+---
+
 ## [roadmap-0.8.0] - 2026-06-23
 
 ### Added

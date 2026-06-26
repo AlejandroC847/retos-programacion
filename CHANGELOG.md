@@ -1,5 +1,15 @@
 # Changelog
 
+## [roadmap-0.10.0] - 2026-06-26
+
+### Added
+
+- **Ejercicio 10 - Herencia y Polimorfismo**
+- Documentación del ejercicio
+- Tests del módulo
+
+---
+
 ## [roadmap-0.9.0] - 2026-06-24
 
 ### Added

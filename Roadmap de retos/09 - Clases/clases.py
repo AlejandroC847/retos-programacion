@@ -119,7 +119,7 @@ def _main():
     """Demo del programa. Ejecución principal"""
     _clear_console()
     print("-" * 20)
-    print("Roadmap 08 - Pilas y Colas")
+    print("Roadmap 09 - Clases")
     print("-" * 20)
 
     implement_example()

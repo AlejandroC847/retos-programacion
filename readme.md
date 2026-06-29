@@ -136,8 +136,8 @@ Cada reto contiene:
 - [x] Ejercicio 8 - Pilas y Colas
 - [x] Ejercicio 9 - Clases
 - [x] Ejercicio 10 - Herencia y Polimorfismo
-- [ ] Ejercicio 11 - Excepciones
-- [ ] Ejercicio 12 - ???
+- [x] Ejercicio 11 - Excepciones
+- [ ] Ejercicio 12 - Manejo de Ficheros
 - [ ] Ejercicio 13 - ???
 - [ ] Ejercicio 14 - ???
 - [ ] Ejercicio 15 - ???

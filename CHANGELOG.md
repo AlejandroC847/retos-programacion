@@ -1,5 +1,15 @@
 # Changelog
 
+## [roadmap-0.11.0] - 2026-06-28
+
+### Added
+
+- **Ejercicio 11 - Excepciones**
+- Documentación del ejercicio
+- Tests del módulo
+
+---
+
 ## [roadmap-0.10.0] - 2026-06-26
 
 ### Added

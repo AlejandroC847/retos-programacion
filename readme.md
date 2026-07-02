@@ -137,8 +137,8 @@ Cada reto contiene:
 - [x] Ejercicio 9 - Clases
 - [x] Ejercicio 10 - Herencia y Polimorfismo
 - [x] Ejercicio 11 - Excepciones
-- [ ] Ejercicio 12 - Manejo de Ficheros
-- [ ] Ejercicio 13 - ???
+- [x] Ejercicio 12 - Manejo de Ficheros
+- [ ] Ejercicio 13 - JSON y XML
 - [ ] Ejercicio 14 - ???
 - [ ] Ejercicio 15 - ???
 - [ ] Ejercicio 16 - ???

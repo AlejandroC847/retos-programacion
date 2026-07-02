@@ -1,5 +1,15 @@
 # Changelog
 
+## [roadmap-0.12.0] - 2026-07-01
+
+### Added
+
+- **Ejercicio 12 - Manejo de Ficheros**
+- Documentación del ejercicio
+- Tests del módulo
+
+---
+
 ## [roadmap-0.11.0] - 2026-06-28
 
 ### Added
